@@ -6,7 +6,7 @@
     _value  = new char[_length + 1];  
   }
 
-
+//edit later
   if(p->getID()){
     for (size_t i = 0; i < strlen(p->getID()); i++){
        if(!(isAlphaNumeric(p->getID()[i])) && !(p->getID()[i]=='_')){
