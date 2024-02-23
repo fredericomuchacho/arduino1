@@ -24,3 +24,4 @@
     #endif
     _params = (WiFiManagerParameter**)malloc(_max_params * sizeof(WiFiManagerParameter*));
   }
+//nice
